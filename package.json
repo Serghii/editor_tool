@@ -4,7 +4,7 @@
   "displayName": "Unity Editor Tool",
   "description": "This package provides function to easily convert Rect <-> Anchored positions in RectTranform component.",
   "unity": "2018.3",
-  "author": "Serghii Safonov",
+  "author": "Sergii Safonov",
   
   "dependencies": {
  },
